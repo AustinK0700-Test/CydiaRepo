@@ -1,0 +1,20 @@
+<package>
+	<id>com.CydiaRepo.ppsspp</id>
+	<name>PPSSPP</name>
+	<version>1.9.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>PSP Emulator</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<version>1.9.3</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

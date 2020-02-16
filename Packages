@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.CydiaRepo.ppsspp
+Version: 1.9.3
+Section: Emulators
+Maintainer: CydiaRepo
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.CydiaRepo.ppsspp.deb
+Size: 14682888
+MD5sum: 08340DAAF131CD1B32BA136FCB4F3077
+Description: PSP Emulator
+Name: PPSSPP
+Author: Austin
+Depiction: https://austink0700-test.github.io/CydiaRepo/depictions/ppsspp
